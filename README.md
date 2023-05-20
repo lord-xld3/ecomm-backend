@@ -45,7 +45,6 @@ To run the application locally, you need to have the following installed on your
   DB_NAME=<your-database-name>
   DB_USER=<your-database-username>
   DB_PASSWORD=<your-database-password>
-  DB_HOST=<your-database-host>
   DB_PORT=<your-database-port>
   ```
 
